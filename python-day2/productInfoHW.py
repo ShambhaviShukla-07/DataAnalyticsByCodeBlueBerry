@@ -1,0 +1,11 @@
+pid=int(input("Enter the product's ID: "))
+product_name=input("Enter the product's name: ")
+product_price=float(input("Enter the product's price: "))
+product_rating=float(input("Enter the product's rating: "))
+is_available=input("Is the product available (True/False) ? : ")
+
+print("The product name is :",product_name)
+print("It has product ID :",pid)
+print("the product's price is :" ,product_price)
+print("The product's rating is :",product_rating)
+print("The product available: ",is_available)

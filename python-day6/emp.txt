@@ -1,0 +1,3 @@
+EmpName - Salary
+Mohan - 50000
+
